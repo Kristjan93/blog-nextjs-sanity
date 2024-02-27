@@ -11,31 +11,7 @@ export const description = [
         _key: '4a58edd077880',
         _type: 'span',
         marks: [],
-        text: 'A statically generated blog example using ',
-      },
-      {
-        _key: '4a58edd077881',
-        _type: 'span',
-        marks: ['ec5b66c9b1e0'],
-        text: 'Next.js',
-      },
-      {
-        _key: '4a58edd077882',
-        _type: 'span',
-        marks: [],
-        text: ' and ',
-      },
-      {
-        _key: '4a58edd077883',
-        _type: 'span',
-        marks: ['1f8991913ea8'],
-        text: 'Sanity',
-      },
-      {
-        _key: '4a58edd077884',
-        _type: 'span',
-        marks: [],
-        text: '.',
+        text: "I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.",
       },
     ],
     markDefs: [
